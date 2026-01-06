@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.parking-grid{grid-gap:1rem;display:grid;gap:1rem;grid-template-columns:repeat(5,100px);justify-content:center;.spot-card{border:1px solid #222;border-radius:.5rem;padding:10px}.spot-card.resident{background-color:green}.spot-card.public{background-color:#1e90ff}.spot-card.carnum{background-color:gray}}.controller{background-color:#eee;border:1px solid #222;border-radius:1rem;margin:1rem auto;padding:1rem;width:90%}
+/*# sourceMappingURL=main.76ceb48d.css.map*/
